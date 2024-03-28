@@ -5,6 +5,8 @@
 
 define buzz = Character("Buzz", color=(196, 196, 11, 255))
 define player = Character("[playerName]", color=(222, 34, 213, 255))
+define emergencyOperator = Character("911 Operator", color=(200, 200, 200, 255))
+# how do we set an emergency operator sprite?
 
 
 # The game starts here.
